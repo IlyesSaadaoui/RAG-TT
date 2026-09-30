@@ -1,0 +1,11 @@
+.venv/
+__pycache__/
+*.pyc
+.env
+chroma_db/
+faiss_index/
+*.db
+*.sqlite3
+*.pdf
+*.csv
+data/
